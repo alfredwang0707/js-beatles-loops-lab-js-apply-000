@@ -38,6 +38,13 @@ function johnLennonFacts(facts) {
 
   return array;
 }
+/* 
+var array =[];
+for (let i = 0; i < facts.length; i ++){
+  array.push(facts[i]) + "!!!"
+}return array ;
+}
+
 
 /* Create a function `iLoveTheBeatles` which accepts a number as a parameter. 
 
